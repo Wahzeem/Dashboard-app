@@ -13,10 +13,10 @@
 <style lang="scss">
 
 :root {
-  --grey: #64748b;
-  --dark: #1e293b;
-  --dark-alt: #334155;
-  --light: #f1f5f9;
+  --grey: #6c757d;
+  --dark: #212529;
+  --dark-alt: #343a40;
+  --light: #dee2e6;
   --sidebar-width: 300px;
 }
 

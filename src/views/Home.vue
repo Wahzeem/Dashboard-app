@@ -83,6 +83,7 @@
 </template>
 
 <style lang="scss" scoped>
+
     .row {
         height: 100%;
 
